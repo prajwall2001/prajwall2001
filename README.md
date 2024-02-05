@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java enterprise application development.**
 
-- 💬 Ask me about **Core Java,OOPs,Collection,Exception handling,Servlets,Spring,JSP,JPA,JDBC,MySQL,HTML and CSS**
+- 💬 Ask me about **Core Java,OOPs,Collection,Exception handling,Servlets,Spring,JSP,JPA,JDBC,MySQL,HTML,CSS and Javascript**
 
 - 📫 How to reach me **prajwal.maravanthe8@gmail.com**
 
