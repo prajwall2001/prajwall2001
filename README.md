@@ -1,13 +1,14 @@
+![Header](banner.jpg)
 <h1 align="center">Hi 👋, I'm Prajwal L</h1>
 <h3 align="center">A passionate full stack java developer from India</h3>
-<img align="right" alt="coding" width="500" src="animation.gif">
+<img align="right" alt="coding" width="500" src="https://engineering.giphy.com/wp-content/uploads/2017/06/api.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwall2001&label=Profile%20views&color=0e75b6&style=flat" alt="prajwall2001" /> </p>
 
 <p align="left"> <a href="https://twitter.com/prajwall11" target="blank"><img src="https://img.shields.io/twitter/follow/prajwall11?logo=twitter&style=for-the-badge" alt="prajwall11" /></a> </p>
 
 - 🌱 I’m currently learning **Java enterprise application development.**
 
-- 💬 Ask me about **Core Java,OOPs,Collection,Exception handling,Servlets,Spring,JSP,JPA,JDBC,MySQL,HTML,CSS and Javascript**
+- 💬 Ask me about **Core Java,OOPs,Collection,Exception handling,Servlets,Spring,JSP,JPA,JDBC,MySQL,HTML and CSS**
 
 - 📫 How to reach me **prajwal.maravanthe8@gmail.com**
 
@@ -28,3 +29,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prajwall2001&show_icons=true&locale=en" alt="prajwall2001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajwall2001&" alt="prajwall2001" /></p>
+
+
+
+
+
+
+
+
+
+
+
