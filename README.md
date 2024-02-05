@@ -1,4 +1,4 @@
-![Header](banner.jpg)
+![Header](banner_git.png)
 <h1 align="center">Hi 👋, I'm Prajwal L</h1>
 <h3 align="center">A passionate full stack java developer from India</h3>
 <img align="right" alt="coding" width="500" src="https://engineering.giphy.com/wp-content/uploads/2017/06/api.gif">
