@@ -12,7 +12,7 @@
 - 💬 Ask me about **Core Java,OOPs,Collection,Exception handling,Servlets,Spring,JSP,JPA,JDBC,MySQL,HTML and CSS**
 
 - 📫 Reach me at **prajwal.maravanthe8@gmail.com**
-- 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
