@@ -1,6 +1,6 @@
 ![Header](banner_git.png)
 <h1 align="center">Hi 👋, I'm Prajwal L</h1>
-<h3 align="center">A passionate full stack java developer from India</h3>
+<h3 align="center">A passionate full stack java developer and flutter developer from India</h3>
 <img align="right" alt="coding" width="500" src="https://engineering.giphy.com/wp-content/uploads/2017/06/api.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwall2001&label=Profile%20views&color=0e75b6&style=flat" alt="prajwall2001" /> </p>
 
