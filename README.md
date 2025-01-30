@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Core Java,OOPs,Collection,Exception handling,Servlets,Spring,JSP,JPA,JDBC,MySQL,HTML and CSS**
 
-- 📫 How to reach me **prajwal.maravanthe8@gmail.com**
+- 📫 Reach me at **prajwal.maravanthe8@gmail.com** 
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Fqu8mfBWr5zjdfQHPp3qgeRgJt6ovaiL/view?usp=drivesdk](https://drive.google.com/file/d/1Fqu8mfBWr5zjdfQHPp3qgeRgJt6ovaiL/view?usp=drivesdk)
 
