@@ -6,7 +6,8 @@
 
 <p align="left"> <a href="https://twitter.com/prajwall11" target="blank"><img src="https://img.shields.io/twitter/follow/prajwall11?logo=twitter&style=for-the-badge" alt="prajwall11" /></a> </p>
 
-- 🌱 I’m currently learning **Java enterprise application development.**
+- 🌱 I’m completed **Java enterprise application development.**
+- **Currently working in Vizsoft global llp as a Associate backend developer(Flutter).**
 
 - 💬 Ask me about **Core Java,OOPs,Collection,Exception handling,Servlets,Spring,JSP,JPA,JDBC,MySQL,HTML and CSS**
 
